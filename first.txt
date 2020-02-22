@@ -1,3 +1,4 @@
 itestこれからGITの練習をしていきます。
 git add
-git commit
+git commitaaaaa
+nnnn
